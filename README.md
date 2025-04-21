@@ -97,7 +97,7 @@ Postman, Swagger UI
 ## 📫 Let’s Connect
 
 - GitHub: [github.com/RoshanPathak1234](https://github.com/RoshanPathak1234/Roshan-Pathak.git) 
-- LinkedIn: [www.linkedin.com/in/roshan-pathak-544512222](www.linkedin.com/in/roshan-pathak-544512222)  
+- LinkedIn: [www.linkedin.com/in/roshan-pathak-544512222](www.linkedin.com/in/roshan-pathak-544512222/)  
 - Email: roshanpathak659@gmail.com
 
 ---

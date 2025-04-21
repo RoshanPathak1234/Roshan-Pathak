@@ -76,7 +76,15 @@ Postman, Swagger UI
   - Link : [Web Page](https://roshanpathak1234.github.io/Simon-Game/)
   - GitHub: [Simon Game](https://github.com/RoshanPathak1234/Simon-Game.git)
 
+---
 
+## 📚 Links & Certificates 
+
+  🏆 The Complete 2024 Full Stack Web Development Bootcamp – [Certificate Link](https://www.udemy.com/certificate/UC-560576ca-a7ee-4fca-96ff-2b669a6c7926/)
+
+  💡 Solved 120+ DSA Problems on LeetCode – [View Profile](https://leetcode.com/u/Roshan_Pathak/)
+
+  🥇 Gold Medalist – College Debate Competition
 
 ---
 

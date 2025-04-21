@@ -90,14 +90,13 @@ Postman, Swagger UI
 
 ## 📄 Resume
 
-📌 View: [Resume (PDF)](#)  
-📥 Download: [resume.pdf](raw#)
+📌 View: [Resume (PDF)](https://github.com/RoshanPathak1234/Roshan-Pathak/blob/177bb536ab2b288081fa5dc5f67c8192652f471b/About%20Me.pdf)  
 
 ---
 
 ## 📫 Let’s Connect
 
-- GitHub: [github.com/RoshanPathak1234](https://github.com/RoshanPathak1234/RoshanPathak)  
+- GitHub: [github.com/RoshanPathak1234](https://github.com/RoshanPathak1234/Roshan-Pathak.git) 
 - LinkedIn: [linkedin.com/in/your-profile](www.linkedin.com/in/roshan-pathak-544512222)  
 - Email: roshanpathak659@gmail.com
 
